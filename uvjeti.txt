@@ -1,0 +1,30 @@
+Barem tri funkcije ili klase koje sam sam napisao:
+        1
+
+Barem 99 linija koda (otprilike računam):
+        cca 20
+        
+Barem 5 slika (grafova ili vizualizacija):
+        2
+        
+Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas obrađene na predavanjima:
+        3 (OK)
+        
+Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas koje nisu obrađene na predavanjima:
+        2
+        
+Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen na predavanjima:
+        0
+        
+Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
+        0
+  
+Animacije/3D grafovi/interaktivni widgeti:
+        0 (treba istražiti)
+
+Kod u skladu s PEP8 PEP20 - trudim se
+
+Izvori - pratim u izvori.txt
+
+Lijepi commit history - trudim se
+
