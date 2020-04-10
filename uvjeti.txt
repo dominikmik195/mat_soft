@@ -1,5 +1,5 @@
 Barem tri funkcije ili klase koje sam sam napisao:
-        1
+        3 (OK)
 
 Barem 99 linija koda (otprilike računam):
         cca 20
@@ -14,7 +14,7 @@ Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas koje nisu obra�
         2
         
 Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen na predavanjima:
-        0
+        1
         
 Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
         0
