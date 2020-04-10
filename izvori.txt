@@ -4,3 +4,8 @@ Podaci o koronavirusu:
 Činjenice o koronavirusu:
     https://www.koronavirus.hr/
     
+Podsjetnik za linearnu regresiju:
+    https://towardsdatascience.com/modeling-exponential-growth-49a2b6f22e1f
+    Iz MMUB:
+    https://web.math.pmf.unizg.hr/nastava/mmub/nastmat.html
+    https://web.math.pmf.unizg.hr/nastava/mmub/exp.pdf
