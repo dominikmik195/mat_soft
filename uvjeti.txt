@@ -2,10 +2,10 @@ Barem tri funkcije ili klase koje sam sam napisao:
         3 (OK - jedna je jadna, ali dodat ćemo još)
 
 Barem 99 linija koda (otprilike računam):
-        cca 30
+        više od 100 (OK)
         
 Barem 5 slika (grafova ili vizualizacija):
-        2 + head tablice
+        3*2 grafa (koji će nakon prilagodbe biti 3 grafa) + head tablice + podatci linearne regresije (iako se to možda ni ne broji)
         
 Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas obrađene na predavanjima:
         3 (OK)
@@ -14,10 +14,10 @@ Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas koje nisu obra�
         3 (OK - set_xticks, rename, grid - bit će još!)
         
 Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen na predavanjima:
-        2 (datetime.datetime, datetime.delta)
+        3+ (datetime.datetime, datetime.delta, statsmodels.api.OLS, ...)
         
 Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
-        0
+        0 (još uvijek... nađi nešto!)
   
 Animacije/3D grafovi/interaktivni widgeti:
         0 (treba istražiti mogućnosti)
