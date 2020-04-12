@@ -6,6 +6,11 @@ Podaci o koronavirusu:
     
 Podsjetnik za linearnu regresiju:
     https://towardsdatascience.com/modeling-exponential-growth-49a2b6f22e1f
+    
+    Iz Statistike:
+    https://web.math.pmf.unizg.hr/nastava/stat/files/StatRegresija.pdf
+    https://web.math.pmf.unizg.hr/nastava/stat/index.php?sadrzaj=o_kolegiju.php
+    
     Iz MMUB:
     https://web.math.pmf.unizg.hr/nastava/mmub/nastmat.html
     https://web.math.pmf.unizg.hr/nastava/mmub/exp.pdf

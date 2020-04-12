@@ -5,7 +5,7 @@ Barem 99 linija koda (otprilike računam):
         više od 100 (OK)
         
 Barem 5 slika (grafova ili vizualizacija):
-        3*2 grafa (koji će nakon prilagodbe biti 3 grafa) + head tablice + podatci linearne regresije (iako se to možda ni ne broji)
+        3*2 grafa (koji će nakon prilagodbe biti 3 grafa) + podatci i grafovi linearne regresije
         
 Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas obrađene na predavanjima:
         3 (OK)
@@ -17,7 +17,7 @@ Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen n
         3+ (datetime.datetime, datetime.delta, statsmodels.api.OLS, ...)
         
 Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
-        0 (još uvijek... nađi nešto!)
+        1 (funkcija round, poprilično otužno stanje, naći još neke korisne i upotrebljive funkcije)
   
 Animacije/3D grafovi/interaktivni widgeti:
         0 (treba istražiti mogućnosti)
