@@ -14,11 +14,13 @@ Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas koje nisu obra�
         3 (OK - set_xticks, rename, grid - bit će još!)
         
 Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen na predavanjima:
-        3+ (datetime.datetime, datetime.delta, statsmodels.api.OLS, ...)
+        cca 3 (statsmodels.api.OLS, trebalo bi još nešto za svaki slučaj uključiti)
         
 Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
-        1 (funkcija round, poprilično otužno stanje, naći još neke korisne i upotrebljive funkcije)
-  
+        3 (funkcija round, funkcije iz datetime)
+
+DODATNO:
+
 Animacije/3D grafovi/interaktivni widgeti:
         0 (treba istražiti mogućnosti)
 
