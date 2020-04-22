@@ -1,32 +1,33 @@
 Barem tri funkcije ili klase koje sam sam napisao:
-        3 (OK - jedna je jadna, ali dodat ćemo još)
+        13 funkcija - neke vrlo kratke, neke opsežnije
 
 Barem 99 linija koda (otprilike računam):
         više od 100 (OK)
         
 Barem 5 slika (grafova ili vizualizacija):
-        3*2 grafa (koji će nakon prilagodbe biti 3 grafa) + podatci i grafovi linearne regresije
+        brojeći isključivo različite tipove grafove koje sam definirao, ima 5 figura
+        brojeći i pozivanje više puta iste funkcije za druge podatke, tada je 8 figura
         
 Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas obrađene na predavanjima:
-        3 (OK)
+        OK
         
 Barem 3 objekta/metode/funkcije iz Numpy/Scipy/Matplotlib/Pandas koje nisu obrađene na predavanjima:
-        3 (OK - set_xticks, rename, grid - bit će još!)
+        OK (većinski je riječ o detaljima iz Matplotlib, npr. grid, set ticks, itd...)
         
 Barem 3 objekta/metode/funkcije iz nekog Anacondinog paketa koji nije obrađen na predavanjima:
-        cca 3 (statsmodels.api.OLS, trebalo bi još nešto za svaki slučaj uključiti)
+        OK (statsmodels.api, ipywidgets, scipy.integrate)
         
 Barem 3 objekta/metode/funkcije iz standardne Pythonove biblioteke koje nisu obrađene na predavanjima:
-        3 (funkcija round, funkcije iz datetime)
+        OK (round, copy, string.replace, datetime...)
 
 DODATNO:
 
 Animacije/3D grafovi/interaktivni widgeti:
-        0 (treba istražiti mogućnosti)
+        2 widgeta (slideri)
 
 Kod u skladu s PEP8 PEP20 - trudim se
 
-Izvori - pratim u izvori.txt
+Izvori - pratim u izvori.txt (navedeni su izvori i u corona_formal.ipynb)
 
-Lijepi commit history - trudim se
+Pristojan commit history - trudim se
 

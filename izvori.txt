@@ -3,6 +3,7 @@ Podaci o koronavirusu:
      
 Činjenice o koronavirusu:
     https://www.koronavirus.hr/
+    https://www.hzjz.hr/priopcenja-mediji/pitanja-i-odgovori-o-bolesti-uzrokovanoj-novim-koronavirusom/
     
 Podsjetnik za linearnu regresiju:
     https://towardsdatascience.com/modeling-exponential-growth-49a2b6f22e1f
@@ -14,3 +15,13 @@ Podsjetnik za linearnu regresiju:
     Iz MMUB:
     https://web.math.pmf.unizg.hr/nastava/mmub/nastmat.html
     https://web.math.pmf.unizg.hr/nastava/mmub/exp.pdf
+    https://web.math.pmf.unizg.hr/nastava/mmub/logistic.pdf
+    
+Podsjetnik za epidemiološke modele:
+    https://web.math.pmf.unizg.hr/nastava/mmub/7-epidemioloski.pdf
+    https://idmod.org/docs/general/model-sir.html
+
+Slike:
+    https://www.turbosquid.com/3d-models/virus-coronavirus-2-3d-model-1504654
+    https://www.cerstvakava.cz/clanky/kopi-luwak-kava-na-niz-si-uz-pred-vami-pochutnaly-cibetky/
+    https://idmod.org/docs/general/model-sir.html
